@@ -17,15 +17,19 @@ End the program
 ## Program:
 ```
 
+
 #Program to find the solution for the given linear equations.
 #Developed by: AMALJOSH MAADHAV J   
 #RegisterNumber:212223230012
+
 
 import numpy as np
 A = [[1,3],[2,5]]
 B = np.array([5,-3])
 C = np.linalg.solve(A,B)
 print(C)
+
+
 
 ```
 
