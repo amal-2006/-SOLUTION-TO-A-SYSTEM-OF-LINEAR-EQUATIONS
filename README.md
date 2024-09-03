@@ -1,3 +1,4 @@
+## DATE:
 ## EX 1 - SOLUTION TO A SYSTEM OF LINEAR EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
